@@ -1,1 +1,3 @@
-![Middle Golang Developer](devops.JPG)
+![](devops.JPG)
+
+Middle Golang Developer
